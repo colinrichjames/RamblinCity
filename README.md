@@ -52,6 +52,3 @@ We synthesized a unique environment tailored to the character's abilities. The w
 ## Performance & Polish
 
 The game features a unified aesthetic with a consistent color palette and a cohesive soundscape. We implemented an aesthetic UI with a functional start menu, in-game pause system, and "God Mode" for testing. Audio feedback is coupled with physical interactions, providing one-shot sounds for collisions, footsteps, and item collection.
-
-### Appeal - No glitches, No easily escaping the confines of the game world (make proper and plausible barriers), No obvious edge of the game world unless part of intended , gameplay (e.g. a quad for a ground plane that the player can see where they fall off the world), No getting the player stuck Stable (e.g. should play consistently the same on variety of  hardware) (Owner: Colin, Emily, Tianyi)
-The game has no glitches, you cannot go off the map past the mountains, there is no obvious edge of the game. 
